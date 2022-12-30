@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Sergio Campano</title>
+		
+	</head>
+	<body>
+	<h1 id= "título">Sergio Campano</h1>
+	<strong>Real State Consultant</strong>
+	<hr/>		</hr/>
+		
+		<img src=https://www.teleasesor.com/wp-content/uploads/2021/02/WhatsApp-Image-2022-02-28-at-06.55.26.jpeg width="50%" height="50%">
+		<p>
+		<h2 id="Resumen"><strong><i>Resumen</strong><p></p></h2>
+		Soy un apasionado del arte y la cultura si hablamos de ocio. En cuanto a mi vida laboral real state, growth hacking y sostenibilidad acaparan mi atención.
+		</i>
+<ul><i><h2>Índice</i></h2>
+
+<a href="#experiencia"><li>Experiencia</li></a>
+<li>Educación</li>
+<li>Idiomas</li>
+
+</ul>
+		</p>
+		<i><h2 id= "experiencia">Experiencia</h2></i>
+		<ul><b>Real State Consultant</b>
+		
+		<li>Captación y venta de bienes inmuebles
+		
+		</li>
+		
+		
+		</ul>
+		<h2 id="educación"><i>Educación</i></h2>
+		<ul><b>Executive MBA</b>
+
+		<li>Instituto de Empresa (IE) Madrid</li>
+		</ul>	
+		<table border="1">
+		
+		<tr>
+		<th><b>Idiomas</b>
+	
+		<td>Inglés</td>
+		<td>Francés</td>
+		<td>Español</td>
+		<td>Catalán</td><br></th>	</tr>
+		<tr><th>Nivel</th>
+		
+		<td>Avanzado</td>
+		<td>Básico</td>
+		<td>Nativo</td>
+		<td>Nativo</td>
+		
+		</tr>
+		
+	
+		</table>
+	</body>
+</html>
