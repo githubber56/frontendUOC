@@ -1,0 +1,8 @@
+
+<i><h2 id="contacto">Contacto</h2></i>
+
+<form>
+<ul><li>Nombre&nbsp<input name="Nombre" type="text"/> <br></li>
+<li>Email&nbsp&nbsp&nbsp&nbsp<input mail="Mail" type="email"/><br></li>
+<li>Mensaje<textarea name="message"></textarea></li></ul>
+<button><input type="summit" value="Enviar"/></button>
