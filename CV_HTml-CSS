@@ -5,18 +5,19 @@
 	<link rel=stylesheet href="style.css">
 		
 	</head>
-	<body bgcolor="#07ff13" align="justify">
+
 	
 		
 	<h1 id= "título">Sergio Campano</h1>
 	<strong>Real State Consultant</strong>
 	<hr/>		</hr/>
-		
-		<img src=https://www.teleasesor.com/wp-content/uploads/2021/02/WhatsApp-Image-2022-02-28-at-06.55.26.jpeg width="50%" height="50%">
+		<picture>
+		<img src=https://www.teleasesor.com/wp-content/uploads/2021/02/WhatsApp-Image-2022-02-28-at-06.55.26.jpeg width="50%" height="50%"></picture>
 		<p class="example">
+		    
 		<h2 class="title" id="Resumen"><strong><i>Resumen</strong></p></h2>
 		Soy un apasionado del arte y la cultura si hablamos de ocio. En cuanto a mi vida laboral real state, growth hacking y sostenibilidad acaparan mi atención.
-		</i>
+		<hr/>		</hr/>
 <i><h2 class="title">Índice</i></h2>
 
 <ul><a href="#experiencia"><li>Experiencia</li></a>
@@ -27,6 +28,7 @@
 
 </ul>
 		</p>
+		<hr/>		</hr/>
 		<i><h2 class="title" id= "experiencia">Experiencia</h2></i>
 		<ul><b>Real State Consultant</b>
 		
@@ -36,6 +38,7 @@
 		
 		
 		</ul>
+		<hr/>		</hr/>
 		<h2 class="title" id="educación"><i>Educación</i></h2>
 		<ul><b>Executive MBA</b>
 
@@ -59,23 +62,8 @@
 		
 		</tr>
 		</table>
-		
+		<hr/>		</hr/>
 	<i><h2 class="title" id="más información">Más Información</h2></i>
 	<ul><li><a href=""https://es.linkedin.com/in/sergiocampano target="_blank"">Linkedin</a></li></ul>
-
-<i><h2 class="title" id="contacto">Contacto</h2></i>
-
-<form>
-<ul><li>Nombre&nbsp<input name="Nombre" type="text"/> <br></li>
-<li>Email&nbsp&nbsp&nbsp&nbsp<input mail="Mail" type="email"/><br></li>
-<li>Mensaje<textarea name="message"></textarea></li></ul>
-<button type="summit">Enviar</button><br><br>
-<input type="checkbox"/><a href=https://ayudaleyprotecciondatos.es/modelo-politica-privacidad/>Acepta la política de privacidad</a>
-</form>
-
-
-
-	
-		
-	</body>
+</body>
 </html>
